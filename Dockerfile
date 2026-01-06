@@ -1,1 +1,1 @@
-FROM docker.io/istio/pilot:1.28.2
+FROM docker.io/istio/pilot:1.28.2-arm64
