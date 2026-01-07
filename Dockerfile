@@ -1,1 +1,1 @@
-FROM docker.io/istio/pilot:1.28.0-distroless-arm64
+FROM gcr.io/istio-release/release-1.28-arm64-latest
