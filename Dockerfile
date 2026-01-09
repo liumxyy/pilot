@@ -1,1 +1,1 @@
-FROM docker.io/istio/pilot:1.28.0
+FROM istio/pilot:1.28.0
